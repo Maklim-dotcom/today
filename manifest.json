@@ -7,9 +7,9 @@
   "theme_color": "#FF6F59",
   "icons": [
     {
-      "src": "icone-gatinho.jpg",
+      "src": "icone.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png"
     }
   ]
 }
